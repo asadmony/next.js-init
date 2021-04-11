@@ -1,0 +1,10 @@
+.header{
+    background-color: aquamarine;
+    padding: 5px 2px;
+}
+.link{
+    margin: 2px 4px;
+}
+.link:hover{
+    color: brown;
+}
